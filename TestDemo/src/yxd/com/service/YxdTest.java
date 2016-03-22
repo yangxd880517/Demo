@@ -5,6 +5,7 @@ public class YxdTest {
 	private String Num;
 	private String password;
 	private String sex;
+	private String phone;
 	public String getName() {
 		return name;
 	}
