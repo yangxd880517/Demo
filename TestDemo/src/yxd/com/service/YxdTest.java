@@ -23,6 +23,12 @@ public class YxdTest {
 	public void setPassword(String password) {
 		this.password = password;
 	}
+	public String getSex() {
+		return sex;
+	}
+	public void setSex(String sex) {
+		this.sex = sex;
+	}
 	
 	
 	
